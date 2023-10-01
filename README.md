@@ -14,6 +14,9 @@ As a part of this analysis, I went through below stages:
    
 ## Results
 
-According to the testing classification report, the model was able to predict healthy loans with 100% accuracy and 85% accuracy for high-risk loans. The model caught 99% of positive cases of healthy loans and 91% of cases for high-risk loans.
+According to the testing classification report, the model was able to predict healthy loans with 100% accuracy and 85% accuracy for high-risk loans. The model caught 99% of positive cases of healthy loans and 91% of cases of high-risk loans.
 
+## Summary
+
+After completing the evaluation of the model's performance, I would not recommend using this model in real-world practice without further development to increase the model's accuracy. It's vital for the loan approval model to predict high-risk applications to avoid borrower defaulting with accuracy higher than the initial 85% that this model is delivering.
 
